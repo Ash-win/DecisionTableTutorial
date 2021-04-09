@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_department" table="var__m_sys_decision_input_4793fb1b2fd3201064595e072799b69e" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_department</element>
+            <name>var__m_sys_decision_input_4793fb1b2fd3201064595e072799b69e</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-09 12:55:27</sys_created_on>
+            <sys_id>93f43b5b2fd3201064595e072799b6af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_department</sys_name>
+            <sys_package display_value="Decision Tables - Tutman" source="x_270568_decision">7d627b572fd3201064595e072799b606</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Decision Tables - Tutman">7d627b572fd3201064595e072799b606</sys_scope>
+            <sys_update_name>sys_choice_var__m_sys_decision_input_4793fb1b2fd3201064595e072799b69e_u_department</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-09 12:55:27</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Finance</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_4793fb1b2fd3201064595e072799b69e</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-09 12:56:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c215ff5b2fd3201064595e072799b625</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-09 12:56:02</sys_updated_on>
+            <value>Finance</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HR</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_4793fb1b2fd3201064595e072799b69e</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-09 12:55:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6305ff5b2fd3201064595e072799b66c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-09 12:55:50</sys_updated_on>
+            <value>HR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Marketing</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_4793fb1b2fd3201064595e072799b69e</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-09 12:55:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a8a47b5b2fd3201064595e072799b69e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-09 12:55:27</sys_updated_on>
+            <value>Marketing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sales</label>
+            <language>en</language>
+            <name>var__m_sys_decision_input_4793fb1b2fd3201064595e072799b69e</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-04-09 12:55:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2405bf5b2fd3201064595e072799b673</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-04-09 12:55:39</sys_updated_on>
+            <value>Sales</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

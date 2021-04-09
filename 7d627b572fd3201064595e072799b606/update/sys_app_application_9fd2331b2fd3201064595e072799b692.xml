@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Decision Tables - Tutorial</description>
+        <device_type>browser</device_type>
+        <hint>Decision Tables - Tutorial</hint>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-09 12:46:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9fd2331b2fd3201064595e072799b692</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Decision Tables - Tutorial</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Decision Tables - Tutman" source="x_270568_decision">7d627b572fd3201064595e072799b606</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Decision Tables - Tutman">7d627b572fd3201064595e072799b606</sys_scope>
+        <sys_update_name>sys_app_application_9fd2331b2fd3201064595e072799b692</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-09 16:28:17</sys_updated_on>
+        <title>Decision Tables - Tutorial</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

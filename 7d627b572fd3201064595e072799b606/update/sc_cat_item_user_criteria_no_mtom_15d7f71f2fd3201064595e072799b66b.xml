@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_no_mtom">
+    <sc_cat_item_user_criteria_no_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Department access request">8b67731f2fd3201064595e072799b657</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_no_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-09 13:07:53</sys_created_on>
+        <sys_id>15d7f71f2fd3201064595e072799b66b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Department access request.SNC External</sys_name>
+        <sys_package display_value="Decision Tables - Tutman" source="x_270568_decision">7d627b572fd3201064595e072799b606</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Decision Tables - Tutman">7d627b572fd3201064595e072799b606</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_no_mtom_15d7f71f2fd3201064595e072799b66b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-09 13:07:53</sys_updated_on>
+        <user_criteria display_value="SNC External">66c1b50e730333009508738234f6a7c9</user_criteria>
+    </sc_cat_item_user_criteria_no_mtom>
+</record_update>
